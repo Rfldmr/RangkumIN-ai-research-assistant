@@ -22,9 +22,10 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 
 ## Features
 
-- Answer your questions automatically and naturally.
-- There are no limits and quotas for asking questions. Ask as much as you like.
-- Always ready 24/7 anytime and anywhere without operating hours.
+- Automatically summarize journal content
+- Chat with journals/PDFs
+- Automatically generate citations (APA, MLA, Harvard, IEEE, etc.)
+- Explore related journals (Based on the arXiv database)
 
 ## Tech Stack
 
