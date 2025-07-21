@@ -48,13 +48,7 @@ We welcome contributions to this project. Please follow these steps to contribut
 1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/smare.ai-smart-automation-report.git`)
 2. **Read the requirements.txt file in the repository, make sure you have installed everything needed according to the version listed.**
 3. **Open the file named app.py which is in the repository.**
-4. **Install the Streamlit framework with the following command** (`pip install streamlit`).
-5. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
-
-## Model Evaluation
-
-- Accuracy score: 0.9952
-- Loss: 0.0068
+4. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
 
 ## Reference
 
