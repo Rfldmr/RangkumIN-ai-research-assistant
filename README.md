@@ -1,4 +1,3 @@
-
 <div align= "center">
 </div>
 
@@ -36,10 +35,6 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 - **OpenRouter**:
 - **LangChain**:
 - **PyPDF**:
-  
-## Dataset
-
-No dataset is used. The data source is a json file containing a collection of self-built conversations.
 
 ## How to Use This Code?
 
