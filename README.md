@@ -30,11 +30,11 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 
 - **Python**:  A versatile programming language used for web development, machine learning, and more.
 - **Streamlit**: A Python library for creating interactive web apps for data science and machine learning.
-- **arXiv API**:
-- **Deepseek V3**:
-- **OpenRouter**:
-- **LangChain**:
-- **PyPDF**:
+- **arXiv API**: A Python interface for accessing arXiv's vast repository of scientific research papers.
+- **Deepseek V3**: An advanced AI model for code generation, text understanding, and question answering.
+- **OpenRouter**: A unified API platform that connects multiple AI models for seamless integration.
+- **LangChain**:  A framework for building AI-powered applications with language models and data pipelines.
+- **PyPDF**: A Python library for reading, manipulating, and extracting text from PDF files.
 
 ## How to Use This Code?
 
