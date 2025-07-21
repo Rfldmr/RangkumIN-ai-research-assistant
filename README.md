@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<h2>VokaBot: AI Customer Service for SV-IPB</h2>
+<h2>RangkumIN: AI-Powered Research Assistant</h2>
 
 <br>
 
-<img src ="./asset/screen.png" width="80%">
+<img src ="./asset/cover.png" width="80%">
 
 </div>
 
