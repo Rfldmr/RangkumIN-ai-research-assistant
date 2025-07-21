@@ -40,14 +40,10 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 
 We welcome contributions to this project. Please follow these steps to contribute:
 
-1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/smare.ai-smart-automation-report.git`)
+1. **Clone this repository to your computer** (`git clone https://github.com/Rfldmr/RangkumIN-ai-research-assistant.git`)
 2. **Read the requirements.txt file in the repository, make sure you have installed everything needed according to the version listed.**
 3. **Open the file named app.py which is in the repository.**
 4. **Run the following command to run the program on localhost** (`python -m streamlit run app.py`).
-
-## Reference
-
-Meme, T. (2024). *Building a Chatbot with Python*. Codepolitan. [Click here](https://www.codepolitan.com/blog/membangun-chatbot-dengan-python)
 
 ## Copyright
 
