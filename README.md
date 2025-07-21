@@ -18,7 +18,7 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 
 ## Project Link
 
-[Click here](https://vokabot.streamlit.app/) to take you to the VokaBot AI project website.
+[Click here](https://rangkumin-ai.streamlit.app) to take you to the RangkumIN AI project website.
 
 ## Features
 
