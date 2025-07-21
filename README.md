@@ -14,7 +14,7 @@
 
 ## Overview
 
-RangkumIN is an AI-based research assistant that will help you simplify the research process for previous journals that you want to use.
+RangkumIN is an AI-based research assistant that will help you simplify the research process for previous journals you want to use. Built with Deepseek AI support, RangkumIN is a tool capable of performing various tasks that will simplify your research work. Combined with connections to various journal databases on arXiv, RangkumIN is ready to help you find journals relevant to your current research topic.
 
 ## Project Link
 
