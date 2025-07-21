@@ -22,7 +22,7 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 ## Features
 
 - 📝 Automatically summarize journal content
-- 💬 Chat with journals/PDF
+- 💬 Chat with journal/PDF
 - 📖 Automatically generate citations (APA, MLA, Harvard, IEEE, etc.)
 - 🔍 Explore related journals (Based on the arXiv database)
 
