@@ -23,7 +23,7 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 ## Features
 
 - Automatically summarize journal content
-- Chat with journals/PDFs
+- Chat with journals/PDF
 - Automatically generate citations (APA, MLA, Harvard, IEEE, etc.)
 - Explore related journals (Based on the arXiv database)
 
@@ -31,10 +31,11 @@ RangkumIN is an AI-based research assistant that will help you simplify the rese
 
 - **Python**:  A versatile programming language used for web development, machine learning, and more.
 - **Streamlit**: A Python library for creating interactive web apps for data science and machine learning.
-- **TensorFlow**: A popular deep learning framework, used to build and train a variety of machine learning models.
-- **NLTK**: A leading platform for building Python programs to work with human language data.
-- **Adam Optimizer**: An optimization algorithm used in training neural networks.
-- **GitHub**: A platform for help host and managing code projects.
+- **arXiv API**:
+- **Deepseek V3**:
+- **OpenRouter**:
+- **LangChain**:
+- **PyPDF**:
   
 ## Dataset
 
