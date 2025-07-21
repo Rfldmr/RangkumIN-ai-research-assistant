@@ -14,7 +14,7 @@
 
 ## Overview
 
-VokaBot is a simple AI-based customer service chatbot designed to provide information and answer questions related to IPB Vocational School. Built using the TensorFlow framework and utilizing the NLTK library for natural language processing (NLP), VokaBot is able to understand and respond to questions by utilizing a trained deep learning model.
+RangkumIN is an AI-based research assistant that will help you simplify the research process for previous journals that you want to use.
 
 ## Project Link
 
