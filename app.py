@@ -118,31 +118,31 @@ def generate_citations(document_text):
 3. Use this exact format for each style:
 
 **- APA Style -**
-<br>
+(beri jarak)
 [APA citation]
 
 **- MLA Style -**
-<br>
+(beri jarak)
 [MLA citation]
 
 **- Harvard Style -**
-<br>
+(beri jarak)
 [Harvard citation]
 
 **- IEEE Style -**
-<br>
+(beri jarak)
 [IEEE citation]
 
 **- Chicago Style -**
-<br>
+(beri jarak)
 [Chicago citation]
 
 **- Vancouver Style -**
-<br>
+(beri jarak)
 [Vancouver citation]
 
 **- AMA Style -**
-<br>
+(beri jarak)
 [AMA citation]
 
 4. Include all available elements: authors, title, journal, year, volume, issue, pages, DOI
