@@ -15,7 +15,7 @@ DEEPSEEK_API_BASE = "https://openrouter.ai/api/v1"
 def initialize_llm():
     """Initialize the DeepSeek v3 LLM through OpenRouter"""
     return ChatOpenAI(
-        model_name="deepseek/deepseek-chat:free",
+        model_name="deepseek/deepseek-chat-v3-0324:free",
         openai_api_key=DEEPSEEK_API_KEY,
         openai_api_base=DEEPSEEK_API_BASE,
         temperature=0.3,
